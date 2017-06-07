@@ -1,0 +1,6 @@
+# Ignore ipynb checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Ignore *.gz
+
+**/*.gz
